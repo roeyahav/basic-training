@@ -1,3 +1,10 @@
-# basic-training
-We will learn how to code in Python
-yes we do!
+-basic bash
+    -cd, ls ,mkdir, touch, cat
+    -vi, chmod, grep
+    -sudo, rm, rmdir
+    -find, less ,more
+-basic git
+    -clone, init
+    -add, commit, amend
+    -push, pull
+    -merge, rebase
